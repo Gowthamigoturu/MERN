@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>FRUITS</title>
+</head>
+
+<body>
+  <h1>
+    __Favourite fruits__
+  </h1>
+  <h3>ordered list</h3>
+  <ol>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Apple</li>
+    <li>Cherry</li>
+  </ol>
+  <h3>unordered list</h3>
+  <ul>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Apple</li>
+    <li>Cherry</li>
+  </ul>
+  
+</body>
+
+</html>
